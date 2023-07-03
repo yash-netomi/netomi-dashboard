@@ -9,12 +9,91 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
+  --purple-ultra-dark: #10106a;
+  --purple-dark: #3729a6;
   --purple: #4d39e9;
+  --purple-light-medium: #988cf3;
+  --purple-light: #cac4fa;
+  --purple-ultra-light: #f1effe;
+  --purple-tint: #f8f7ff;
+  --purple-pastel: #cac4fa;
+
+  --turquoise-ultra-dark: #007882;
+  --turquoise-dark: #00a0aa;
   --turquoise-medium: #00d2dc;
+  --turquoise-light-medium: #6be5eb;
+  --turquoise-light: #b3f3f5;
+  --turquoise-ultra-light: #ebfbfd;
+
+  --green-ultra-dark: #006600;
   --green-dark: #008a00;
-  --yellow-dark: #dba300;
+  --green-active: #5aa700;
+  --green-medium: #9cca66;
+  --green-light-medium: #bddc99;
+  --green-light: #deedcc;
+  --green-ultra-light: #f2f8ea;
+  --green-pastel: #b3f0e1;
+  --green-vibrant: #00ed00;
+
+  --red-ultra-dark: #ae0000;
   --red-dark: #e22c2c;
-  
+  --red-medium: #f09393;
+  --red-light-medium: #f9c7c7;
+  --red-light: #fae6e6;
+  --red-ultra-light: #f2f8ea;
+  --red-vibrant: #ff2e00;
+
+  --yellow-ultra-dark: #b98c00;
+  --yellow-dark: #dba300;
+  --yellow-medium: #f4ba1a;
+  --yellow-light-medium: #f9d77a;
+  --yellow-light: #fceabb;
+  --yellow-ultra-light: #fefaed;
+  --yellow-vibrant: #ffbb00;
+
+  --blue-ultra-dark: #1e4682;
+  --blue-dark: #2658a6;
+  --blue-medium: #1e6ff1;
+  --blue-light-medium: #8bb5f8;
+  --blue-light: #c2d9fb;
+  --blue-ultra-light: #f0f5fe;
+  --blue-pastel: #c2d9fb;
+
+  --orange-ultra-dark: #c25700;
+  --orange-dark: #f06c00;
+  --orange-medium: #ff9600;
+  --orange-light-medium: #f7b577;
+  --orange-light: #fbd9b9;
+  --orange-ultra-light: #fef5ec;
+  --orange-pastel: #ffc989;
+  --orange-vibrant: #ff7a00;
+
+  --grey-ultra-dark: #2c2c2c;
+  --grey-dark: #6d6d6d;
+  --grey-medium: #b0b0b0;
+  --grey: #cdcdcd;
+  --grey-light-medium: #e8e8e8;
+  --grey-light: #f2f2f2;
+  --grey-ultra-light: #fafafa;
+  --black: #000000;
+  --white: #ffffff;
+
+  --teal-pastel: #b3f3f5;
+  --pink-pastel: #f9c7c7;
+  --lime-vibrant: #bdff00;
+
+  --steal-ultra-light: #8c949b;
+  --steal-light: #4c4f62;
+  --steal-regular: #313343;
+  --steal-dark: #2c2e3d;
+  --steal-ultra-dark: #1c1f2a;
+
+  --sentiment-negative: #CC0000;
+  --sentiment-neutral: #F1C232;
+  --sentiment-positive: #6AA84F;
+
+  --disney-blue: #274589;
+
   --root-font-size: 16px;
 }
 
